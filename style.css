@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+.image img{
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+
+.card{
+    height: 40vh;
+    width: 50%;
+    border: 1px solid black;
+    box-shadow: 2px 2px 20px black;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+
+.heading{
+    text-align: center;
+    font-size: 0.5rem;
+    margin: 10px;
+}
+
+.des{
+    text-align: center;
+    margin: 10px;
+}
+
+button{
+    margin: 10px;
+    border: 1px solid black;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+}
