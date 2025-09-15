@@ -1,31 +1,31 @@
-Live Demo: https://somu-nandi.github.io/Card-website/
+# 📘 JS Course Card  
 
-📘 JS Course Card
+**Live Demo:** 👉 [Click Here](https://somu-nandi.github.io/Card-website/)  
 
-A simple HTML & CSS project that displays a course card with an image, heading, description, and button.
+A simple HTML & CSS project that displays a course card with an image, heading, description, and button.  
 
-🚀 Features
+---
 
-Centered layout using Flexbox
+## 🚀 Features  
+- Centered layout using Flexbox  
+- Styled card with shadow & rounded corners  
+- Hover effect on button  
 
-Styled card with shadow & rounded corners
+---
 
-Hover effect on button
+## 🛠️ Tech Used  
+- HTML5  
+- CSS3  
 
-🛠️ Tech Used
+---
 
-HTML5
+## 📖 How to Run  
+1. Clone or download the repo  
+2. Open `index.html` in your browser  
+3. The course card will be displayed at the center of the screen  
 
-CSS3
+---
 
-📖 How to Run
-
-Open index.html in your browser.
-
-The course card will be displayed at the center of the screen.
-
-🎯 Future Scope
-
-Make it responsive
-
-Add multiple cards in a grid
+## 🎯 Future Scope  
+- Make it responsive  
+- Add multiple cards in a grid  
