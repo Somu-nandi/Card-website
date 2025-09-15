@@ -1,3 +1,5 @@
+Live Demo: https://somu-nandi.github.io/Card-website/
+
 📘 JS Course Card
 
 A simple HTML & CSS project that displays a course card with an image, heading, description, and button.
